@@ -3,6 +3,7 @@ layout: page
 title: Curriculum Vitae 
 header: Pages
 group: navigation
+order: 1
 ---
 {% include JB/setup %}
 

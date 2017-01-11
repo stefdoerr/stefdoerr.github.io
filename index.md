@@ -2,6 +2,7 @@
 layout: page
 title: Stefan Doerr
 tagline: About
+order: 1
 ---
 {% include JB/setup %}
 
