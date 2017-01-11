@@ -15,6 +15,7 @@ order: 1
 {:toc}
 
 ## Education
+
 #### Ph.D. in Biomedicine (2013 - 2016)
 Universitat Pompeu Fabra, Spain  
 **Thesis:** "Applications of machine learning in computational biology"  
@@ -37,6 +38,7 @@ Supervisor: Prof. Anthony Savidis
 Foundation of Research and Technology Hellas (ICS-FORTH), Crete, Greece  
 
 ## Experience
+
 #### HTMD Workshop (2013 - 2016)
 Acellera Ltd, Barcelona  
 Co-organizer of the 1st, 2nd and 3rd HTMD workshop on high-throughput molecular dynamics [workshop.htmd.org](http://workshop.htmd.org/)
@@ -62,6 +64,7 @@ Development of an XML to RDF conversion tool for the knowledge representation mo
 
 
 ## Publications
+
 *S. Doerr, M.J. Harvey, F. Noé and G. De Fabritiis*
 [HTMD: High-throughput molecular dynamics for molecular discovery.](http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00049)
 J. Chem. Theory Comput., 2016, 12 (4), pp 1845–1852
@@ -75,6 +78,7 @@ J. Chem. Theory Comput., 2014, 10 (5), pp 2064–2069
 J. Chem. Inf. Model., 2014, 54 (2), pp 362–366
 
 ## Honors & Awards
+
 #### Ph.D. award (2016)
 Universitat Pompeu Fabra  
 Awarded excellent cum laude for the Ph.D. thesis and proposed for the PhD Extraordinary Award 2015-2016.
