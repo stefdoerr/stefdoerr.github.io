@@ -19,4 +19,7 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 #### Github:
 [https://github.com/stefdoerr](https://github.com/stefdoerr)
 
+#### LinkedIn:
+[https://www.linkedin.com/in/stefan-doerr-25449212a/](https://www.linkedin.com/in/stefan-doerr-25449212a/)
+
 
